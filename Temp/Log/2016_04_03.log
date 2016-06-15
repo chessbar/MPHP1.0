@@ -1,0 +1,20 @@
+[TIME]:2016-04-03 22:32:12ERROR:Call to undefined function FriendlyErrorType()/www/Mapp/MPHP/Data/Tpl/notice.html第23行
+[TIME]:2016-04-03 22:33:23ERROR:Call to undefined function FriendlyErrorType()/www/Mapp/MPHP/Data/Tpl/notice.html第23行
+[TIME]:2016-04-03 22:33:32ERROR:Call to undefined function FriendlyErrorType()/www/Mapp/MPHP/Data/Tpl/notice.html第23行
+[TIME]:2016-04-03 22:33:52ERROR:Call to undefined function FriendlyErrorType()/www/Mapp/MPHP/Data/Tpl/notice.html第23行
+[TIME]:2016-04-03 22:36:35ERROR:Call to undefined function FriendlyErrorType()/www/Mapp/MPHP/Data/Tpl/notice.html第23行
+[TIME]:2016-04-03 22:37:24ERROR:Call to undefined function FriendlyErrorType()/www/Mapp/MPHP/Data/Tpl/notice.html第23行
+[TIME]:2016-04-03 22:37:25ERROR:Call to undefined function FriendlyErrorType()/www/Mapp/MPHP/Data/Tpl/notice.html第23行
+[TIME]:2016-04-03 22:37:34ERROR:Call to undefined function FriendlyErrorType()/www/Mapp/MPHP/Data/Tpl/notice.html第23行
+[TIME]:2016-04-03 22:41:31ERROR:Call to undefined function FriendlyErrorType()/www/Mapp/MPHP/Data/Tpl/notice.html第23行
+[TIME]:2016-04-03 22:41:33ERROR:Call to undefined function FriendlyErrorType()/www/Mapp/MPHP/Data/Tpl/notice.html第23行
+[TIME]:2016-04-03 22:43:31ERROR:mysql错误:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1FROM hd_user' at line 1</br>SQL:SELECT * 1FROM hd_user
+[TIME]:2016-04-03 22:53:25ERROR:Call to undefined function FriendlyErrorType()/www/Mapp/MPHP/Data/Tpl/notice.html第23行
+[TIME]:2016-04-03 22:53:55ERROR:mysql错误:Table 'hdcms.hd_hdcms' doesn't exist</br>SQL:SELECT * FROM hd_hdcms
+[TIME]:2016-04-03 22:55:15ERROR:mysql错误:Table 'hdcms.hd_hdcms' doesn't exist</br>SQL:SELECT * FROM hd_hdcms
+[TIME]:2016-04-03 23:15:12ERROR:mysql错误:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=admin' at line 1</br>SQL:SELECT username FROM hd_user WHEREusername=admin
+[TIME]:2016-04-03 23:15:26ERROR:mysql错误:Unknown column 'admin' in 'where clause'</br>SQL:SELECT username FROM hd_user WHERE username=admin
+[TIME]:2016-04-03 23:40:08ERROR:syntax error, unexpected '}'/www/Mapp/MPHP/Extends/Tool/Model.class.php第100行
+[TIME]:2016-04-03 23:41:46ERROR:请用query方法发送查询sql
+[TIME]:2016-04-03 23:42:08ERROR:mysql错误:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FRO1M hd_user' at line 1</br>SQL:SELECT * FRO1M hd_user
+[TIME]:2016-04-03 23:45:54ERROR:删除语句必须有where条件

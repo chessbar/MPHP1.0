@@ -1,0 +1,32 @@
+[TIME]:2016-04-02 14:03:00ERROR:hello
+[TIME]:2016-04-02 14:15:26ERROR:hello
+[TIME]:2016-04-02 14:16:35ERROR:hello
+[TIME]:2016-04-02 14:18:22ERROR:hello
+[TIME]:2016-04-02 14:20:47ERROR:hello
+[TIME]:2016-04-02 14:23:21ERROR:hello
+[TIME]:2016-04-02 14:23:30ERROR:hello
+[TIME]:2016-04-02 14:23:32ERROR:hello
+[TIME]:2016-04-02 14:23:56ERROR:hello
+[TIME]:2016-04-02 14:43:33ERROR:/www/Mapp/Index/View/Index/index.html模板文件不存在
+[TIME]:2016-04-02 14:44:37ERROR:/www/Mapp/Index/View/Index/index.html模板文件不存在
+[TIME]:2016-04-02 14:44:40ERROR:/www/Mapp/Index/View/Index/index.html模板文件不存在
+[TIME]:2016-04-02 14:44:59ERROR:/www/Mapp/Index/View/Index/index.html模板文件不存在
+[TIME]:2016-04-02 14:45:00ERROR:/www/Mapp/Index/View/Index/index.html模板文件不存在
+[TIME]:2016-04-02 14:45:11ERROR:/www/Mapp/Index/View/Index/11模板文件不存在
+[TIME]:2016-04-02 14:46:04ERROR:/www/Mapp/Index/View/Index/11.html模板文件不存在
+[TIME]:2016-04-02 14:46:31ERROR:/www/Mapp/Index/View/Index/11.html模板文件不存在
+[TIME]:2016-04-02 14:47:03ERROR:/www/Mapp/Index/View/Index/11.php模板文件不存在
+[TIME]:2016-04-02 14:47:12ERROR:/www/Mapp/Index/View/Index/index.html模板文件不存在
+[TIME]:2016-04-02 18:26:36ERROR:/www/Mapp/MPHP/Extends/Tool/IndexController.class.php类未找到
+[TIME]:2016-04-02 18:26:39ERROR:/www/Mapp/MPHP/Extends/Tool/IndexController.class.php类未找到
+[TIME]:2016-04-02 18:27:33ERROR:/www/Mapp/MPHP/Extends/Tool/IndexController.class.php类未找到
+[TIME]:2016-04-02 18:27:48ERROR:/www/Mapp/MPHP/Extends/Tool/IndexController.class.php类未找到
+[TIME]:2016-04-02 18:31:36ERROR:/www/Mapp/MPHP/Extends/Tool/Code1.class.php类未找到
+[TIME]:2016-04-02 18:37:23ERROR:/www/Mapp/Index/Controller/aaController.class.php控制器未找到
+[TIME]:2016-04-02 18:38:01ERROR:/www/Mapp/Index/Controller/aaController.class.php控制器未找到
+[TIME]:2016-04-02 18:51:20ERROR:IndexController控制器中1方法不存在
+[TIME]:2016-04-02 19:23:28ERROR:syntax error, unexpected T_INCLUDE/www/Mapp/Index/Controller/IndexController.class.php第8行
+[TIME]:2016-04-02 19:42:33ERROR:syntax error, unexpected T_CONSTANT_ENCAPSED_STRING/www/Mapp/MPHP/Extends/Tool/Model.class.php第27行
+[TIME]:2016-04-02 19:43:42ERROR:请先链接数据库
+[TIME]:2016-04-02 19:44:08ERROR:请先链接数据库
+[TIME]:2016-04-02 19:45:57ERROR:Call to undefined function FriendlyErrorType()/www/Mapp/MPHP/Data/Tpl/notice.html第23行
